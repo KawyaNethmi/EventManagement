@@ -93,7 +93,7 @@ if ($categories_table_exists) {
         </div>
     </div>
 
-    <!-- Alert Messages -->
+    <!-- Alert Messages-->
     <?php if($success_message): ?>
         <div class="alert alert-success alert-dismissible fade show" role="alert">
             <i class="fas fa-check-circle me-2"></i>
@@ -315,7 +315,7 @@ if ($categories_table_exists) {
         </div>
     </div>
 
-    <!-- Quick Templates Section -->
+    <!-- Quick Templates Sections -->
     <div class="row mt-5">
         <div class="col-12">
             <div class="card">
